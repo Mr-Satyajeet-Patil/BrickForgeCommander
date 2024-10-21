@@ -7,6 +7,7 @@ namespace BrickForgeCommanderUI.Helpers
 {
     public class KeyHandler
     {
+        //Testing
         private readonly Dictionary<Keys, Action> singleKeyActions;
         private readonly Dictionary<Keys, Action> combinationKeyActions;
 
